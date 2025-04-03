@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="24" cy="24" r="23" fill="#0052FF" stroke="#0052FF" stroke-width="2"/>
+  
+  <!-- Sun rays -->
+  <path d="M24 8V4" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 44V40" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M8 24H4" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M44 24H40" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M12.5 12.5L9.5 9.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M38.5 38.5L35.5 35.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M12.5 35.5L9.5 38.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M38.5 9.5L35.5 12.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Sun center -->
+  <circle cx="24" cy="24" r="10" fill="white"/>
+  
+  <!-- BM Text -->
+  <text x="24" y="27" font-family="Arial, sans-serif" font-weight="bold" font-size="10" text-anchor="middle" fill="#0052FF">BM</text>
+</svg> 
